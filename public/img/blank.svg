@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14.856605mm"
+   height="15.176101mm"
+   viewBox="0 0 14.856604 15.176101"
+   version="1.1"
+   id="svg4520"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="blank.svg">
+  <defs
+     id="defs4514" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.65625"
+     inkscape:cx="17.191022"
+     inkscape:cy="204.18976"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true" />
+  <metadata
+     id="metadata4517">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.854053,-146.25095)">
+    <path
+       style="fill:#cccccc;stroke-width:0.14434929"
+       inkscape:connector-curvature="0"
+       id="path1446-3"
+       d="m 89.180832,146.63487 c -3.107183,-0.55688 -6.221365,2.24448 -6.93752,6.24055 -0.716158,3.9961 1.231376,7.70455 4.338562,8.26141 3.10718,0.55688 6.221371,-2.24447 6.93753,-6.24056 0.716157,-3.99609 -1.231385,-7.70454 -4.338572,-8.2614 z" />
+    <g
+       transform="matrix(0.41747402,0,0,0.48838587,30.451875,138.43736)"
+       style="fill:#806600;fill-rule:evenodd"
+       id="Page-1" />
+  </g>
+</svg>
